@@ -21,7 +21,7 @@ C'est un logiciel libre créé par Linus Torvalds, auteur du noyau Linux.*
 
 Lien | Téléchargement
 -------- | ---------
-[Git](https://git-scm.com/docs) | [https://pubci.files.wordpress.com/2016/04/github.png](https://git-scm.com/download/win), [Mac](https://git-scm.com/download/mac), [Linux](https://git-scm.com/download/linux)
+[Git](https://git-scm.com/docs) | [Windows](https://git-scm.com/download/win), [Mac](https://git-scm.com/download/mac), [Linux](https://git-scm.com/download/linux)
 [GitHub](https://github.com/) | [Windows](https://central.github.com/deployments/desktop/desktop/latest/win32), [Mac](https://central.github.com/deployments/desktop/desktop/latest/darwin)
 
 
