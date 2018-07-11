@@ -6,7 +6,7 @@
 ### C'est quoi ?
 *Git est un logiciel de gestion de versions décentralisé. 
 C'est un logiciel libre créé par Linus Torvalds, auteur du noyau Linux.*
-
+*GitHub est un outil gratuit pour héberger du code open source, et propose également des plans payants pour les projets de code privés*
 ## Commandes Utiles :metal:
 	
 > git init  : initialise le projet 
@@ -20,7 +20,7 @@ C'est un logiciel libre créé par Linus Torvalds, auteur du noyau Linux.*
 ## Lien Utiles :zap:
 
 Source | Lien | Téléchargement / Inscription
------------|-----------
+--------- | -------- | ---------
 Git | https://git-scm.com/docs | Windows : https://git-scm.com/download/win, Mac : https://git-scm.com/download/mac, Linux : https://git-scm.com/download/linux
 GitHub | https://github.com/
 
