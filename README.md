@@ -1,6 +1,6 @@
 # git-command-dylan
 
-![GitHub  Logo](https://www.google.fr/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwj9hveykJfcAhWIVBQKHYpbDtAQjRx6BAgBEAU&url=https%3A%2F%2Fpubci.com%2F2016%2F04%2F&psig=AOvVaw3v_Oo6lwbTYKUf8egw0rT0&ust=1531401252571640)
+![GitHub  Logo](https://pubci.files.wordpress.com/2016/04/github.png)
 ## Introduction :rocket:
 
 ### C'est quoi ?
@@ -14,3 +14,4 @@ C'est un logiciel libre créé par Linus Torvalds, auteur du noyau Linux.*
 > git add	: ajout des fichier a indexer avant de réaliser un "commit"
 > git config : Modification configuration utilisateur
 	
+https://pubci.files.wordpress.com/2016/04/github.png
